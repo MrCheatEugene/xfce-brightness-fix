@@ -8,4 +8,4 @@ A little program to remove or install a XFCE Brightness fix! INTEL ONLY!
 5. Click "Fix" to enable fix, or "Undo" to remove fix
 
 # Sources
-Sources are included with every release in "sources" folder
+Sources are included with every release in "source" folder
